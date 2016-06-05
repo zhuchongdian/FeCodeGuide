@@ -1,9 +1,8 @@
-name:          义乌购前端编码规范
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS, and maintainable JavaScript
+name:          义乌购前端代码规范
+description:   开发灵活，稳定，可持续 HTML 和 CSS 代码的规范
 url:           http://www.zhujiangwei.com/FeCodeGuide
 
 include:       [".editorconfig", ".jscsrc", ".jshintrc", ".csslintrc", ".scss-lint.yml"]
-
+highlighter:   rouge
 markdown:      rdiscount
 permalink:     pretty
-pygments:      true
